@@ -20,7 +20,8 @@ I enjoy programming with JavaScript and Python to create geographic applications
 ---
 
 ## 🔗 Connect with Me
-I am not a big fan of social media. I only have a LinkedIn profile.  
+I’m not a big fan of social media, but if you'd like to get in touch, you can find me on my LinkedIn profile .
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/antoniofraga/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/AntonioFraga)
 
