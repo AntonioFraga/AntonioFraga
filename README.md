@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-# 📌 Introduction
-I am Spanish and have been professionally dedicated to Geographic Information Systems for almost 30 years, managing projects. In recent years, I have returned to programming, something I hadn't done since my youth and never fully developed. 
+## 📌 Shot Bio
+
+I am a Spanish professional with nearly 30 years of experience in Geographic Information Systems (GIS), specializing in the management and leadership of complex projects. Throughout my career, I have been involved in the design, implementation, and optimization of geospatial solutions that span various industries and technologies.
+
+In recent years, I have revisited programming—a skill I first explored in my youth but never fully developed—and have since embraced coding as an essential part of my work. I enjoy combining my deep GIS expertise with modern development practices to create innovative and efficient solutions. My focus is on leveraging technology to solve real-world problems while continuously expanding my skills in both GIS and software development. 
+
 ---
 
 ## 🎯 Interests and Hobbies
@@ -10,15 +14,15 @@ I really enjoy sports, especially triathlon 🚴‍♂️. I have participated i
 ---
 
 ## 🛠 Skills and Expertise
-I mainly work with the ArcGIS platform because it has been the one I have used throughout my professional life, the one used in my current company, and the one required by my clients. I program in JavaScript and Python. Lately, I have been focusing a lot on learning React.  
-
+Throughout my career, I have primarily focused on the Esri ArcGIS platform , mastering its tools and workflows to deliver robust geospatial solutions. However, I also have hands-on experience developing projects with open-source software, leveraging the flexibility and innovation it provides.
+I enjoy programming with JavaScript and Python to create geographic applications, automate GIS workflows, and develop custom scripts for data processing and analysis. These languages allow me to build interactive web maps, streamline repetitive tasks, and integrate geospatial data with modern technologies such as APIs, machine learning, and cloud computing.
 
 ---
 
 ## 🔗 Connect with Me
 I am not a big fan of social media. I only have a LinkedIn profile.  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/antoniofraga/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/AntonioFraga)
 
 ---
 
